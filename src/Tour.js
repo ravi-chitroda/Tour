@@ -7,3 +7,5 @@ const Tour = () => {
     </div>
   );
 };
+
+export default Tour;
